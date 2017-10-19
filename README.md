@@ -7,5 +7,5 @@ Getting to know GitHub
   I play Soccer and a huge ManUtd fan. A dynamic, passionate, confident, smartworking person.
   
   Can code in different languages. 
-      Python, R, JavaScript, ASP .net, C#, Swift 3
-      Worked on numerous projects in web development, data analytics and machine leaning, but never got a chance to upload them into GitHub repository.
+  Python, R, JavaScript, ASP .net, C#, Swift 3.
+  Worked on numerous projects in web development, data analytics and machine leaning, but never got a chance to upload them into GitHub repository.
