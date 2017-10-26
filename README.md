@@ -8,4 +8,4 @@ Getting to know GitHub
   
   Can code in different languages. 
   Python, R, JavaScript, ASP .net, C#, Swift 3.
-  Worked on numerous projects in web development, data analytics and machine leaning, but never got a chance to upload them into GitHub repository.
+  Worked on diffrent projects involving web development, data analytics and machine leaning, but never got a chance to upload them onto my GitHub.
